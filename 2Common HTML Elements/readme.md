@@ -1,2 +1,2 @@
-All Challenges done
+All Challenges completed
 Common HTML Elements
