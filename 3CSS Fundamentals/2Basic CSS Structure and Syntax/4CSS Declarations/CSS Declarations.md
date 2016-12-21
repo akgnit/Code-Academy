@@ -1,6 +1,7 @@
 Now that you're familiar with the basics of CSS syntax, let's style some of the elements on the web page.
 1.
 In style.css, change the color of the heading to FireBrick.
+
 2.
 Add another selector that changes the font-size of the paragraph to 18px.
 
