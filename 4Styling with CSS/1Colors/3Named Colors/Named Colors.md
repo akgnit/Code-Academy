@@ -8,7 +8,6 @@ Let's try some new named colors out!
 
 Instructions
 
-1.
-Set the color of the main heading to Crimson.
-2.
-Set the background color of the subheadings to DarkMagenta.
+1. Set the color of the main heading to Crimson.
+
+2. Set the background color of the subheadings to DarkMagenta.
