@@ -11,5 +11,5 @@ In the example above, all paragraph elements are selected using a CSS selector. 
 Note: The p selector in the example above will select all <p> elements on the web page. Later in this course, you'll learn how to use more specific CSS selectors so that you can select any element you want.
 
 Instructions
-1.
-In style.css, add a selector for the <h1> element.
+
+1. In style.css, add a selector for the <h1> element.
