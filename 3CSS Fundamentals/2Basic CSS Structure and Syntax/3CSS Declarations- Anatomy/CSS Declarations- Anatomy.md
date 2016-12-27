@@ -1,0 +1,16 @@
+It's not enough to simply select an HTML element in a CSS file. To actually style the element, you need to specify two things inside the
+body of the selector:
+
+Property - the property you'd like to style of that element (i.e., size, color, etc.).
+Value - the value of the property (i.e., 18px for size, Blue for color, etc.).
+h1 {
+  color: Blue;
+}
+In the example above, the <h1> element has been selected. Inside of the selector's body, the heading's color property is set to a value of
+  Blue. The heading will now appear the color blue in the browser.
+
+The line color: Blue; is referred to CSS declaration. A CSS declaration consists of a property and a value. Note that a semicolon (;) ends
+  all declarations.
+
+Finally, the entire snippet of code in the example above is known as a CSS rule. A CSS rule consists of the selector and all declarations
+  inside of the selector.
