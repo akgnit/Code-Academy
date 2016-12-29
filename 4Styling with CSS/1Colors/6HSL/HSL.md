@@ -13,6 +13,7 @@ h1 {
 Notice that using HSL is very similar to using RGB.
 
 Note: Because HSL is a part of CSS3, older browsers may not support it. In a later exercise, you'll learn how to work around support issues for colors.
+
 Instructions
-1.
-In style.css, change the color of the main heading and set it to an HSL color with the values 350, 58.8%, 42.0%
+
+1.In style.css, change the color of the main heading and set it to an HSL color with the values 350, 58.8%, 42.0%
