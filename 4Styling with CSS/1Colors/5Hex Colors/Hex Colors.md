@@ -24,7 +24,9 @@ h2 {
   color: #AA33BB;
   color: #A3B; /* This is the same color as above */
 }
-1.
-In style.css, change the color of the main heading to #452F73.
-2.
-Next, change the background color of the subheadings to #AA8EB5.
+
+Instructions
+
+1. In style.css, change the color of the main heading to #452F73.
+
+2. Next, change the background color of the subheadings to #AA8EB5.
