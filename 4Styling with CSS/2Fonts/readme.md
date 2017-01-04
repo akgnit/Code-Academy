@@ -1,1 +1,1 @@
-This Section is complete
+This Section is complete.
