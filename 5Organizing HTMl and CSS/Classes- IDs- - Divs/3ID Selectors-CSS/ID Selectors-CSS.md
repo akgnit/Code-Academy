@@ -16,6 +16,7 @@ To style a specific element labeled with an ID, you can use an ID selector in th
 In the example above, the HTML element with an ID of botswana is targeted with the ID selector #botswana.
 
 All ID selectors begin with the octothorpe character: #. The value of the ID immediately follows the octothorpe. Once you've correctly targeted the element, you can proceed to style it as usual.
+
 Instructions
-1.
-In style.css, add an ID selector for the ID header-text.
+
+1. In style.css, add an ID selector for the ID header-text.
