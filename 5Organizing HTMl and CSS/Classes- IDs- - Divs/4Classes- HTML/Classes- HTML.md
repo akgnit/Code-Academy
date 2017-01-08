@@ -14,5 +14,5 @@ HTML elements are often labeled with class names that reflect the content they r
 Later, in the stylesheet, all science headlines can be quickly styled to have the same styling.
 
 Instructions
-1.
-In index.html, give the second <div> a class of partner.
+
+1. In index.html, give the second <div> a class of partner.
