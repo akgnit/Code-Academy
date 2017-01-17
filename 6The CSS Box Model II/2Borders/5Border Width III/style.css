@@ -52,7 +52,7 @@ p {
   width: 90%;
   border-style: outset;
   border-width: 2px;
-  border-left-width: 5px;
+  border-top-width: 5px;
 }
 
 .hotel-img {
