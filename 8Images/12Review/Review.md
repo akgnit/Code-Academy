@@ -1,0 +1,14 @@
+Great job! In this lesson, you learned how to modify image properties, add background images, set repetition and placement, and create linear gradients.
+
+Let's review what you've learned so far:
+
+Image dimensions are set using the width and height properties.
+A background image can be added to any element using the background-image property.
+A background image's repetition is controlled with the background-repeat property.
+The position of a non-repeating image can be controlled using the background-position property.
+The background property is a shorthand way of setting an image, repetition, and it's position.
+The background-image also supports color gradients.
+
+Instructions
+
+Take some time to experiment with your new knowledge of images in style.css. When you're done, proceed to the next unit.
