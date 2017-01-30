@@ -1,0 +1,15 @@
+Tables, by default, are very bland. They have no borders, the font color is black, and the typeface is the same type used for other HTML elements.
+
+You can use CSS to style tables just like you have done in the past. Specifically, you can change style the various aspects mentioned above.
+
+table, th, td {
+  border: 1px solid black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+The code in the example above demonstrates just some of the various table aspects you can style using the CSS properties you learned about earlier.
+
+Instructions
+
+1.
+In style.css, change the font size of all table headings and table data to 18 pixels.
